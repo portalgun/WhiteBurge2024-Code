@@ -1,0 +1,13 @@
+
+|subj| subject number.* |
+|exp| experiment number.*|
+|blk| Trial block. 100 trials per block. 5 blocks per level. |
+|trial| Trial out of 100.|k
+|pass| Pass number.* |
+|CX| Disparity contrast level. 1 for low, 2 for high |
+|stdX| Standard disparity pedestal in degrees |
+|cmpX| Comparison disparity pedestal in degrees. |
+|cmpInt| Which interval the comparison was presented. |
+|R | Observer respose, ie. interval observer selected as having more disparity pedestal.|
+*Values are consistent with paper.
+
